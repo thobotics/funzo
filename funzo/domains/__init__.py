@@ -30,6 +30,8 @@ __all__ = [
     'PWState', 'PWAction', 'PWTransition', 'PuddleReward', 'PuddleRewardLFA',
     'PuddleWorldMDP', 'PuddleWorld',
     #
+    'ObjectWorldMDP', 'ObjectWorld', 'OWReward', 'OWRewardLFA',
+    #
     'ChainState', 'ChainAction', 'ChainTransition',
     'ChainReward',
     'ChainMDP', 'ChainWorld',
